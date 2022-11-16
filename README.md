@@ -4,4 +4,8 @@
 
 After lots of tutorials I've finally managed to get something presentable and hosted to GH pages!
 
+[Here is the link!](https://abbottmichael96.github.io/QR-Generator/)
+
+Ciao!
+
 
